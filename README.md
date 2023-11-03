@@ -1,5 +1,20 @@
 ### Hi there 👋
+⚡Programming Language: 
+- C++
+- Rust
+- Haskell
+- Python
+- Javascript
 
+🌱Interesting field: 
+- Web3
+- System Programming
+
+💬Expected lifestyle: 
+- Work life balance
+- A remote job
+
+At present, I try to make a little contributions to the opensource.
 <!--
 **lyfer233/lyfer233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
